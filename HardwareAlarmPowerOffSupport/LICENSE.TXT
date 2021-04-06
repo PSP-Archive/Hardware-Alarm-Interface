@@ -1,0 +1,5 @@
+You may freely use this source code to create any 'MODS'. You are permitted to make a public release.
+
+################################################
+This only applies to Power Alarm Support Plugin.
+################################################
